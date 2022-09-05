@@ -1,0 +1,76 @@
+.card {
+  background-color: rgba(62, 48, 98, 0.7803921569);
+  padding: 1rem;
+  border-radius: 2rem;
+  color: #2b231c;
+  font-family: IBMMedium;
+  max-width: 90%;
+  margin-top: 1rem;
+}
+
+.company_position {
+  background-color: #C1A1D3;
+  font-family: IBMBold;
+  margin-bottom: 0.3em;
+  padding-right: 0.2em;
+  padding-left: 0.2em;
+}
+
+.company_name {
+  all: unset;
+  color: #3e2200;
+  cursor: pointer;
+  transition: 0.2s;
+  -webkit-transition: 0.2s;
+}
+
+.company_name:hover {
+  transition: 0.45s;
+  -webkit-transition: 0.45s;
+  background-color: #6F4C5B;
+  color: #E9D5CA;
+}
+
+.company_name, .position_location, .position_time {
+  background-color: #E9D5CA;
+  margin-bottom: 0.3em;
+  padding-right: 0.2em;
+  padding-left: 0.2em;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.company {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 1.2rem;
+}
+
+.job_description {
+  font-family: IBMRegular;
+  padding-bottom: 1em;
+  font-size: 1.05rem;
+  color: #cabcae;
+}
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.tag {
+  background-color: #C1A1D3;
+  border-radius: 0.5rem;
+  padding: 0.3em;
+  min-width: 2.5em;
+  word-wrap: break-word;
+  text-align: center;
+}
+
+/*# sourceMappingURL=ResumeCard.css.map */

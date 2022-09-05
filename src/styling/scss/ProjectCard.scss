@@ -1,0 +1,68 @@
+.project {
+    display: flex;
+    flex-direction: row;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.project-image, .youtube {
+    width: 30em;
+    height: 20em;
+}
+
+.project-details {
+    background-color: #827397dd;
+    border-top-right-radius: 2em;
+    border-bottom-right-radius: 2em;
+    width: 40em;
+    padding-left: 1em;
+    padding-right: 1em;
+    min-height: 20em;
+    font-size: 1em;
+    margin-left: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.project-github {
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+
+.project-icon {
+    color: #D7B19D;
+    font-size: 2em;
+    align-self: center;
+    margin-bottom: 0.2em;
+    transition: 0.45s;
+    -webkit-transition: 0.45s;
+    cursor: pointer;
+}
+
+.project-icon:hover {
+    color: #6F4C5B;
+    transition: 0.45s;
+    -webkit-transition: 0.45s;
+}
+
+@media (max-width: 450px) {
+    .project-image, .youtube {
+        width: 230px;
+        height: 170px;
+    }
+
+    .project { 
+        margin-left: -1.2em;
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+    }
+
+    .project-details {
+        border-radius: 1em;
+        width: 200px;
+        margin: auto;
+    }
+}

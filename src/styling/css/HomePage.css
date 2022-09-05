@@ -1,0 +1,43 @@
+.HomePage {
+  background-color: rgba(218, 193, 174, 0.9568627451);
+  border-radius: 1em;
+  padding: 2.5rem;
+  margin: auto;
+  margin-top: 1.5%;
+  margin-left: 1%;
+  margin-right: 1%;
+  font-family: ArimoPara;
+}
+
+.intro {
+  font-size: 3rem;
+  font-family: HomemadeApple;
+}
+
+.biography {
+  margin-top: -1em;
+  font-size: 1.25em;
+}
+
+.home-links {
+  all: unset;
+  font-family: ArimoParaBold;
+  color: #827397;
+  cursor: pointer;
+  transition: 500ms;
+  -webkit-transition: 500ms;
+}
+
+.home-links:hover {
+  color: #103d6e;
+  transition: 500ms;
+  -webkit-transition: 500ms;
+}
+
+.right-arrow {
+  font-family: ArimoParaBold;
+  font-size: larger;
+  color: #0D335D;
+}
+
+/*# sourceMappingURL=HomePage.css.map */

@@ -1,0 +1,26 @@
+.nav {
+  background-color: #7f699e;
+  height: 100%;
+  width: 12vw;
+  margin: auto;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: IBMBold;
+  word-wrap: break-word;
+}
+
+.link {
+  all: unset;
+  color: #E9D5CA;
+  cursor: pointer;
+  margin-top: 1em;
+  margin-bottom: 8em;
+  word-wrap: break-word;
+  padding: 1em;
+}
+
+/*# sourceMappingURL=Navbar.css.map */
