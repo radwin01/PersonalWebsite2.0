@@ -17,8 +17,8 @@ export default function HomePage() {
                     <p className="biography__first-paragraph">
                         I am in my fourth year in the Computer Science Co-op program at the University of Toronto.<br/>
                         I love music, food, coffee, cats, reading, and makeup! I am interested in full-stack development, safety &amp; security, 
-                        web3, as well as the social impacts of software. This past summer, I was a Software Engineer intern
-                        at Uber in San Francisco. When I am not working or studying, you can find me outside exploring nature, at a café drinking an iced coffee, or simply at home in bed, binging Netflix.
+                        web3, as well as the social impacts of software. This past summer I was a Software Engineer intern
+                        at Uber in San Francisco, and I will be returning to Uber upon my graduation. When I am not working or studying, you can find me outside exploring nature, at a café drinking an iced coffee, or simply at home in bed, binging Netflix.
                     </p>
                     <p className="biography__second-paragraph">
                         I love to talk about everything and anything! You can always reach to me for a coffee chat via <a className="home-links" href="mailto:y9rdwn0110@gmail.com">Gmail</a> or <a className="home-links" href="https://www.linkedin.com/in/yara-radwan/">LinkedIn</a>.
@@ -31,7 +31,7 @@ export default function HomePage() {
             </div>
             <div className="userlinks">
                 <div className="resume-file">
-                    <a className="resume-link" href="https://drive.google.com/file/d/1rUtW__GfbSXCeADfPkUNUlWVxk9UVtYw/view">click to view my resume</a>
+                    <a className="resume-link" href="https://drive.google.com/file/d/1JruLfSfQRo4uK4w4lPnwgjXRhcnb9YbM/view">click to view my resume</a>
                 </div>
                 
                 <div className="endlinks">
