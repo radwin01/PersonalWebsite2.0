@@ -13,7 +13,7 @@ export default function NavBar() {
             </div>
 
             <div className="endnote">
-                <p> Copyright © 2022 Yara Radwan<br/>(last updated: Sept. 2022) </p>
+                <p> Copyright © 2022 Yara Radwan<br/>(last updated: Jan. 2023) </p>
             </div>
         </div>
     )
