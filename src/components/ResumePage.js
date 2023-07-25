@@ -20,7 +20,7 @@ export default function ResumePage() {
                         location="Toronto, Canada"
                         description={TADesc}
                         startDate="Sept. 2020"
-                        endDate="Present (Recurring)"
+                        endDate="Apr. 2023"
                         tags={["Python", "C", "Java", "OOP", "Data structures", "Calculus"]}
                     />
 
