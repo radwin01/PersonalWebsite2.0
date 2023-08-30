@@ -30,7 +30,7 @@ export default function HomePage() {
             </div>
             <div className="userlinks">
                 <div className="resume-file">
-                    <a className="resume-link" href="https://drive.google.com/file/d/1ZhOd4pKcDE-_ucZM0EXwHUQeA44wPNcf/view">click to view my resume</a>
+                    <a className="resume-link" href="https://drive.google.com/file/d/1bGg05Lwged-p74leBybZrAP4FYtqw3IJ/view">click to view my resume</a>
                 </div>
                 
                 <div className="endlinks">
