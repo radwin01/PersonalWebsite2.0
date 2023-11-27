@@ -3,7 +3,7 @@ import './styling/scss/App.scss';
 import HomePage from './components/HomePage';
 import ResumePage from './components/ResumePage';
 import ProjectsPage from './components/ProjectsPage';
-import BlogPage from './components/BlogPage';
+// import BlogPage from './components/BlogPage';
 import NavBar from './components/individual/NavBar';
 import {
   BrowserRouter,
