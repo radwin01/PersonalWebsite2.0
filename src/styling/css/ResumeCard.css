@@ -28,11 +28,11 @@
   transition: 0.45s;
   -webkit-transition: 0.45s;
   background-color: #6F4C5B;
-  color: #E9D5CA;
+  color: #EAD7BB;
 }
 
 .company_name, .position_location, .position_time {
-  background-color: #E9D5CA;
+  background-color: #EAD7BB;
   margin-bottom: 0.3em;
   padding-right: 0.2em;
   padding-left: 0.2em;

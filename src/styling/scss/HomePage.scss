@@ -1,13 +1,13 @@
 .HomePage {
-   background-color: #dac1aef4;
-   border-radius: 1em;
-   padding: 2.5rem;
-   margin: auto;
-   margin-top: 1.5%;
-   margin-left: 3%;
-   margin-right: 1%;
-   width: 80%;
-   font-family: ArimoPara;
+    background-color: #d7c0aeed;
+    border-radius: 1em;
+    padding: 2.5rem;
+    margin: auto;
+    margin-top: 1.5%;
+    margin-left: 3%;
+    margin-right: 1%;
+    width: 80%;
+    font-family: ArimoPara;
 }
 
 .intro {
@@ -23,14 +23,14 @@
 .home-links {
     all: unset;
     font-family: ArimoParaBold;
-    color: #827397;
+    color: #103d6e;
     cursor: pointer;
     transition: 500ms;
     -webkit-transition: 500ms;
 }
 
 .home-links:hover {
-    color: #103d6e;
+    color: #725d55;
     transition: 500ms;
     -webkit-transition: 500ms;
 }
@@ -42,7 +42,7 @@
 }
 
 .userlinks {
-    background-color: #827397dd;
+    background-color: #0d2442d6;
     border-radius: 0.8em;
     margin-top: 1.5%;
     margin-left: 3%;
@@ -65,7 +65,7 @@
 }
   
 .icon {
-    color: #403a6c;
+    color: #EAD7BB;
     font-size: 3em;
     margin-left: 0.8em;
     -webkit-transition: 0.6s ease-out;
@@ -81,8 +81,8 @@
 
 .resume-link {
     all: unset;
-    background-color: #C6B4CE;
-    color: #363062;
+    background-color: #06101e;
+    color: #EAD7BB;
     padding: 0.2em;
     border-radius: 0.2em;
     cursor: pointer;
@@ -93,8 +93,8 @@
 }
 
 .resume-link:hover {
-    background-color: #80558C;
-    color: #E9D5CA;
+    background-color: #725d55;
+    color: #392424;
     -webkit-transition: 0.3s;
     transition: 0.3s;
 }

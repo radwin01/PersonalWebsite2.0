@@ -20,7 +20,7 @@ export default function App() {
             <Route path="/" element={<HomePage />}/>
             <Route path="experience" element={<ResumePage />}/>
             <Route path="projects" element={<ProjectsPage />}/>
-            <Route path="miniblog" element={<BlogPage />}/>
+            {/* <Route path="miniblog" element={<BlogPage />}/> */}
           </Routes>
         </div>
         

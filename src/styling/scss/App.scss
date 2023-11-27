@@ -42,23 +42,22 @@
 body {
     justify-content: center;
     align-items: center;
-    color: #363062;
+    color: #392424;
     background:
         repeating-linear-gradient(
             -45deg,
             transparent,
             transparent 20%,
-            #8672a3 0,
-            #827397 50%
+            #0F2C59 0,
+            #0F2C59 50%
         ),
         repeating-linear-gradient(
             45deg,
             transparent,
             transparent 20%,
-            #ead2c6 0,
-            #ead2c6 50%
-        ), #e1d0c8e9;
-
+            #4e3636b0 0,
+            #4e3636b0 50%
+        ), #dbcdbc;
     background-size: 13em 13em;
     background-blend-mode: multiply; 
 }

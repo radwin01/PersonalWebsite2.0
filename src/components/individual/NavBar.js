@@ -9,11 +9,11 @@ export default function NavBar() {
                 <Link className="link" to="/">about me</Link>
                 <Link className="link" to="/experience">experience</Link>
                 <Link className="link" to="/projects">projects</Link>
-                <Link className="link" id="disable" to="/miniblog">miniblog</Link>
+                {/* <Link className="link" to="/miniblog">yara's hub</Link> */}
             </div>
 
             <div className="endnote">
-                <p> Copyright © 2022 Yara Radwan<br/>(last updated: Aug. 2023) </p>
+                <p> Copyright © 2022 Yara Radwan<br/>(last updated: Nov. 2023) </p>
             </div>
         </div>
     )

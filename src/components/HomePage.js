@@ -15,22 +15,22 @@ export default function HomePage() {
 
                 <div className="biography">
                     <p className="biography__first-paragraph">
-                        I recently graduated from the Computer Science Co-op program at the University of Toronto.<br/>
-                        I love music, food, coffee, cats, reading, and makeup! I am interested in full-stack development, safety &amp; security, 
-                        web3, as well as the social impacts of software. When I am not working or studying, you can find me outside exploring nature, at a café drinking an iced coffee, or simply at home annoying my cat.
+                        Thank you for visiting my website! I received an Honours Bachelor of Science in Computer Science from The University of Toronto and am an incoming Software Engineer at Uber.
+                        I am a lover of tech, cats, reading, and travelling! I am interested in full-stack development, safety &amp; security, 
+                        big data, as well as the social impacts of software. When I am not working or studying, you can find me drinking my third iced coffee of the day, playing with my cat, or reading a good book.
                     </p>
                     <p className="biography__second-paragraph">
-                        I love to talk about everything and anything! You can always reach to me for a coffee chat via <a className="home-links" href="mailto:y9rdwn0110@gmail.com">Gmail</a> or <a className="home-links" href="https://www.linkedin.com/in/yara-radwan/">LinkedIn</a>.
+                        You can always reach out to me for a coffee chat via <a className="home-links" href="mailto:y9rdwn0110@gmail.com">Gmail</a> or <a className="home-links" href="https://www.linkedin.com/in/yara-radwan/">LinkedIn</a>.
                     </p>
                     <p className="biography__third-paragraph">
                         Check out the rest of my website by clicking the links on the right <span className="right-arrow">→</span><br/><br/>
-                        Enjoy your stay! 🌻
+                        Enjoy your stay! 🦋
                     </p>
                 </div>
             </div>
             <div className="userlinks">
                 <div className="resume-file">
-                    <a className="resume-link" href="https://drive.google.com/file/d/1bGg05Lwged-p74leBybZrAP4FYtqw3IJ/view">click to view my resume</a>
+                    <a className="resume-link" href="https://drive.google.com/file/d/1kXLT5WddK7St77G_sMHrXpMI4xViM61w/view">click to view my resume</a>
                 </div>
                 
                 <div className="endlinks">
